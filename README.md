@@ -1,3 +1,7 @@
+# React Get Data form Excel File
+
+This project use xlsx npm package to get data form excle file and show in table.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
